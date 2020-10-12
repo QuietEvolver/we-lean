@@ -1,0 +1,3 @@
+web: npm start
+database: npm run build
+server: node server.js
