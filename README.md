@@ -1,16 +1,16 @@
-# _LEAN: Living Emotional Awareness Now_ 
-**What will you lean into?**
+### LEAN: Living Emotional Awareness Now
+#### What will you lean into?
+<h1 align="center">
+  <a href="https://avatars3.githubusercontent.com/u/34698193?s=460&u=ab64d9d2675a32784f4c56b936876b9d85e245c3&v=4&imgrefurl=https%3A%2F%2Fwww.travelandleisure.com%2Fslideshows%2Fbest-restaurants-open-on-christmas&docid=XQ496gQQlk3zuM&tbnid=Svoa8v5w8ClfUM%3A&vet=10ahUKEwiJ_PjD3aHlAhXKvZ4KHQbVCwQQMwh5KAEwAQ..i&w=1600&h=1000&bih=481&biw=1286&q=best%20restaurant&ved=0ahUKEwiJ_PjD3aHlAhXKvZ4KHQbVCwQQMwh5KAEwAQ&iact=mrc&uact=8">
+    Catalogue Content for LEAN Prj App
+  </a>
+</h1>
 
-![LEAN](assets/img/dandelions/wish.jpg): An upcoming [Heroku](https://git.heroku.com/welean.git) app
+![LEAN](assets/img/dandelions/wish.jpg)
+<!-- : An upcoming [Heroku](https://git.heroku.com/welean.git) app -->
 
-<!-- ![brainstorm1](assets/brainstorm1.png)
-![brainstorm2](assets/brainstorm2.png)
-![brainstorm3a](assets/brainstorm3a.png)
-![brainstorm3b](assets/brainstorm13b.png)
-![brainstorm3c](assets/brainstorm3c.png)
-![brainstorm3d](assets/brainstorm3d.png)
-![brainstorm4](assets/brainstorm4.png)
-![brainstorm5](assets/brainstorm5.png) -->
+
+[BRAINSTORM](BRAINSTORM)
 
 ==========
 LEAN is a fullstack app composed of:
@@ -41,33 +41,33 @@ LEAN is a fullstack app composed of:
 - express
 - fs
 - dotenv: npm install dotenv 
-
 </pre>
 
-## Prior Versions
-    Here are repos built refining the product.
-    Their version are as follows: 
-    [CurrentRepo](https://github.com/QuietEvolver/we-lean)
-    [rgb-survey](https://quietevolver.github.io/rgb-survey/)
-    [ean](https://quietevolver.github.io/ean/)
-    [welean](https://quietevolver.github.io/welean/)
-    [lean]:(has the amz build in outer folder housing/welean)
-    [weleanfull](https://quietevolver.github.io/weleanfull/)
-    [lean-ean](https://github.com/QuietEvolver/lean-ean/capstone-submit-working)
-    [rn-lean-app](https://quietevolver.github.io/RN-lean-app/)
-    [vera-native-lean](https://quietevolver.github.io/vera-native-lean/)
-    [react-with-api](https://quietevolver.github.io/react-with-api/)
-    [travel-guide-and-survey(former project code refactoring for js: ui & c#:be) : https://quietevolver.github.io/travel-guide-and-survey/)
-    [travel-guide-api : https://quietevolver.github.io/travel-guide-api/)
-    [survey-react]:(no gh page)
+## Priors Versions
+Here are repos built refining the product.
+Their version are as follows: 
+* [CurrentRepo](https://github.com/QuietEvolver/we-lean)
+* [rgb-survey](https://quietevolver.github.io/rgb-survey/)
+* [ean](https://quietevolver.github.io/ean/)
+* [welean](https://quietevolver.github.io/welean/)
+* [lean]:(has the amz build in outer folder housing/welean)
+* [weleanfull](https://quietevolver.github.io/weleanfull/)
+* [lean-ean](https://github.com/QuietEvolver/lean-ean/capstone-submit-working)
+* [rn-lean-app](https://quietevolver.github.io/RN-lean-app/)
+* [vera-native-lean](https://quietevolver.github.io/vera-native-lean/)
+* [react-with-api](https://quietevolver.github.io/react-with-api/)
+* [travel-guide-and-survey](https://quietevolver.github.io/travel-guide-and-survey/):(former project code refactor for js: ui & c#:be)
+* [travel-guide-ap](https://quietevolver.github.io/travel-guide-api/)
+* [survey-react]:(no gh page)
 
-# License
+
+## License
 
 [LICENSE](LICENSE)
 
-# Author
+## Author
 
-Contact: [Vera](quietevolver99@gmail.c0m)
+Contact: [Vera](quietevolver99-noreply@github.com)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -127,3 +127,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+![LEAN](assets/img/dandelions/dandelion-wishes.jpg)
+![LEAN](assets/img/dandelions/weed-judgement.jpg)
